@@ -1,0 +1,16 @@
+.Products-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.Produkt-Liste {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 100px;
+}
+
+.title-list {
+    margin: 20px;
+    font-size: 20px;
+}

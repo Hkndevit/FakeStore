@@ -1,0 +1,43 @@
+.Produkt-Seite {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 100px;
+}
+
+.page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 40px;
+}
+.page h1 {
+    display: flex;
+    font-size: 30px;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+}
+
+.title {
+    color: black;
+}
+.price {
+    margin: 30px;
+    font-size: 40px;
+    background-color: white;
+    color: rgb(28, 28, 28);
+}
+.description {
+    width: 500px;
+    margin: 10px;
+    font-size: 20px;
+    line-height: 30px;
+    background-color: white;
+    color: rgb(28, 28, 28);
+}
